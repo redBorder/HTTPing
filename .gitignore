@@ -1,5 +1,7 @@
-tags
-compile_commands.json
+# SOURCES and pkgs
+SOURCES
+pkgs
 
-# Translations
-*.mo
+#DS_Store
+.DS_Store
+
